@@ -2,6 +2,8 @@
 
 This project focuses on predicting injuries in competitive runners using a dataset sourced from Kaggle. The dataset includes various features related to the physical attributes, training routines, and previous injuries of athletes. The goal is to build a predictive model that can help coaches and athletes make informed decisions to minimize the risk of injuries.
 
+The dataset used is the following one: https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners
+
 ## Key Features of the Project:
 - Data Cleaning and Preprocessing: Preparing the dataset for analysis by handling missing values and normalizing data.
 - Exploratory Data Analysis (EDA): Understanding data distributions and relationships between features.
