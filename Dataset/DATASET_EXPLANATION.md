@@ -8,13 +8,9 @@ This work encompasses two datasets uploaded to Dataverse:
 
 All features are described in detail in our paper:
 
-Lövdal, Azzopardi, den Hartigh, "Injury Prediction in Competitive Runners With Machine Learning", 
+Lövdal, Azzopardi, den Hartigh, "Injury Prediction in Competitive Runners With Machine Learning", International journal of sports physiology and performance, 2021
 
-International journal of sports physiology and performance, 2021
-
-The features pertaining to training load and/or recovery are expressed as a 
-time series covering seven individual days for the day approach, 
-and three weeks with features aggregated on a weekly level for the week approach.
+The features pertaining to training load and/or recovery are expressed as a time series covering seven individual days for the day approach, and three weeks with features aggregated on a weekly level for the week approach.
 
 ## Day Approach Features
 
