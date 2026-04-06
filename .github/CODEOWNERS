@@ -1,0 +1,13 @@
+# =================================================================
+# PROJECT REVIEW RULES
+# =================================================================
+# This file defines the owners responsible for the codebase in this
+# repository. These rules are enforced to ensure code quality.
+#
+# HOW IT WORKS:
+# 1. Any changes to the 'main' branch must be made via Pull Request.
+# 2. A minimum of 2 approvals from Code Owners is strictly required.
+# 3. The PR author cannot approve their own changes.
+#
+# CODE OWNERS:
+* @maarcjimeneezz @RocFerrer @DavidGarciaOrtiz
