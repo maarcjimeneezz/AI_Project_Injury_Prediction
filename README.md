@@ -97,8 +97,8 @@ Exploratory data analysis that motivated design decisions is in [`data_explorati
 ## Authors
 
 - Marc Jimenez ([@maarcjimeneezz](https://github.com/maarcjimeneezz))
-- Roc Ferrer
-- David Garcia
+- Roc Ferrer ([@RocFerrer](https://github.com/rocferrer))
+- David Garcia ([@DavidGarciaOrtiz](https://github.com/davidgarciaortiz))
 
 ---
 
